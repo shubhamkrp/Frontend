@@ -1,0 +1,41 @@
+.book-table-page {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+  }
+  
+.book-table-page h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+  }
+  
+.books-table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  
+.books-table th,
+.books-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+.books-table th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+.books-table td {
+    background-color: #f2f2f2;
+  }
+  
+
+
+
+
