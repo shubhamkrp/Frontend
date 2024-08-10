@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './BookTable.css'; // Add this for styling
+import './BookTable.css';
 
 function BookTable() {
   const [books, setBooks] = useState([]);
